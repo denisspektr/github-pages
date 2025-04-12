@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-third-post/</link>
       <pubDate>Sat, 12 Apr 2025 14:33:06 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;lorem&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Post</title>
